@@ -1,13 +1,13 @@
-# Intermediate Julia workshop
+# Julia workshop
 
-## JuliaCon 2019, Baltimore, Maryland, USA
+## Lindner College of Business, University of Cincinnati
 
-### Monday 22 July 2019
+### August 20, 2019
 
-These are Jupyter notebooks for the intermediate Julia workshop at JuliaCon 2019.
-They consist of a series of exercises that the reader should implement while reading the text and/or following the video.
+These are Jupyter notebooks for the Julia workshop at the University of Cincinnati.
+They consist of a series of exercises that the attendees should implement.
 
-The notebooks may be viewed (but not edited) online at [nbviewer](https://nbviewer.jupyter.org/github/dpsanders/intermediate_julia_2019/tree/master).
+The notebooks may be viewed (but not edited) online at [nbviewer](https://nbviewer.jupyter.org/github/dpsanders/cincinnati_2019/tree/master).
 
 
 
